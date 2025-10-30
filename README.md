@@ -4,37 +4,34 @@ A simple RESTful API built with Node.js and Express.js to perform basic CRUD (Cr
 
 Features
 
-Fetch all students
+1. Fetch all students
 
-Add a new student
+* Add a new student
 
-Update student details by ID
+* Update student details by ID
 
-Delete a student by ID
+* Delete a student by ID
 
-Basic input validation and error handling
+* Basic input validation and error handling
 
-Data stored in MYSQl
+* Data stored in MYSQl
 
-Tech Stack
+2. Tech Stack
 
-Backend: Node.js, Express.js
+* Backend: Node.js, Express.js
 
-Database: JSON file / MySQL
+* Database: JSON file / MySQL
 
-Testing Tool: Postman
+* Testing Tool: Postman
 
-Testing with Postman
+3. Testing with Postman
 
-Open Postman.
+> Open Postman.
+>Create requests for each endpoint.
+>Use raw JSON in the request body for POST and PUT.
+>Observe responses in JSON format.
 
-Create requests for each endpoint.
-
-Use raw JSON in the request body for POST and PUT.
-
-Observe responses in JSON format.
-
-Error Handling
+4. Error Handling
 
 400 → Invalid input
 
