@@ -2,9 +2,9 @@ Student Management REST API
 
 A simple RESTful API built with Node.js and Express.js to perform basic CRUD (Create, Read, Update, Delete) operations for managing student records.
 
-Features
+1. Features
 
-1. Fetch all students
+* Fetch all students
 
 * Add a new student
 
@@ -26,10 +26,10 @@ Features
 
 3. Testing with Postman
 
-> Open Postman.
->Create requests for each endpoint.
->Use raw JSON in the request body for POST and PUT.
->Observe responses in JSON format.
+*Open Postman.
+*Create requests for each endpoint.
+*Use raw JSON in the request body for POST and PUT.
+*Observe responses in JSON format.
 
 4. Error Handling
 
