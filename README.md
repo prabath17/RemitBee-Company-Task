@@ -26,10 +26,13 @@ A simple RESTful API built with Node.js and Express.js to perform basic CRUD (Cr
 
 3. Testing with Postman
 
-*Open Postman.
-*Create requests for each endpoint.
-*Use raw JSON in the request body for POST and PUT.
-*Observe responses in JSON format.
+* Open Postman.
+
+* Create requests for each endpoint.
+
+* Use raw JSON in the request body for POST and PUT.
+
+* Observe responses in JSON format.
 
 4. Error Handling
 
